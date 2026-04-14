@@ -1,0 +1,19 @@
+{
+  "name": "saucedemo147",
+  "version": "1.0.0",
+  "description": "Automação de testes para o site saucedemo.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Waleska de Castro",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
