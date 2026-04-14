@@ -32,9 +32,10 @@ Foram desenvolvidos dois cenários de teste:
 
 ---
 
-## ▶️ Como Executar o Projeto
+## 🎥 Execução dos Testes
 
-### 1. Clonar o repositório
+📌 Vídeo da execução dos testes automatizados:
 
-```bash
-git clone https://github.com/WaleskaDeCastro/SauceDemo147
+👉 https://www.loom.com/share/48363b63370d46a6aa17ec3cfd91f159
+
+ 
