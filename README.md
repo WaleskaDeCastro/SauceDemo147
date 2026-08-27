@@ -30,12 +30,7 @@ Foram desenvolvidos dois cenários de teste:
 - Adição de um produto diferente do cenário anterior
 - Validação do produto no carrinho
 
----
 
-## 🎥 Execução dos Testes
 
-📌 Vídeo da execução dos testes automatizados:
-
-👉 https://www.loom.com/share/48363b63370d46a6aa17ec3cfd91f159
 
  
